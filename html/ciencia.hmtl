@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+ 	<head>
+		<metacharset = 'utf-8'>
+		<title>Submarino científico</title>
+		<link rel="stylesheet" type="text/css" href="../css/styles.css">
+	</head>
+
+
+
+	<body>
+
+		<h1> Pisces VI</h1>
+
+
+
+
+<p style='color:white'>Pisces VI es un submarino de aguas profundas con fines científicos ubicado en Tenerife. Pisces VI alcanza los 2.180 metros de profundidad y tiene capacidad para dos pasajeros junto con el piloto. Pisces VI es uno de los 3 submarinos privados que existen a día de hoy en el mundo con esta capacidad de inmersión.  </p> 
+
+<p style='color:white'>El objetivo de Pisces VI es facilitar el acceso a las profundidades del océano a la comunidad científica. Nuestros océanos cubren más del 70% de la superficie del planeta y se estima que albergan entre el 50 % y el 80% de toda la vida en la Tierra. Producen más de la mitad del oxígeno que respiramos y hacen posible la vida en la Tierra. A pesar de ello son los grandes desconocidos. Se estima que más del 80% del fondo marino nunca ha sido cartografiado, observado y explorado.   </p>
+
+<p style='color:white'>Pisces VI realizar también inmersiones en Tenerife con personas que desean convertirse en exploradores del océano por un día. Estas inmersiones son utilizadas para tomar imágenes, datos o incluso muestras, y la participación ciudadana en ellas contribuye a financiar actividades de carácter científico.   </p>
+
+
+
+
+
+	<table border = '10' class = 'center'>
+
+		
+
+		<td><a href = '../index.html'><img src = '../figuras/origen.png' alt = 'Indice' ><figcaption>Indice</figcaption></a></td> 
+		<td><a href = 'origen.html'><img src = '../figuras/origen.png' alt = 'Peral' ><figcaption>Origen</figcaption></a></td> 
+		<td><a href = 'peral.html'><img src = '../figuras/peral.png' alt = 'WW1' ><figcaption>Peral</figcaption></a></td> 
+	
+		</tr>
+
+		
+
+			<td><a href = 'ww1.html'><img src = '../figuras/ww1.png' alt = 'WW1' ><figcaption>WW1</figcaption></a></td> 
+		<td><a href = 'ww2.html'><img src = '../figuras/nuclear.png' alt = 'WW2' ><figcaption>WW2</figcaption></a></td> 
+		<td><a href = 'file:///home/alicia-lopez/Submarinos/html/nuclear.html'><img src = '../figuras/ciencia.png' alt = 'Nuclear' ><figcaption>Nuclear</figcaption></a></td>
+				
+		</tr>
+
+	</table>
+
+
+	</body>
+
+</html>
